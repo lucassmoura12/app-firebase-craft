@@ -1,0 +1,5 @@
+{
+  "name": "Albion Crafter Assistant",
+  "description": "A crafting calculator for Albion Online players to manage food and potion recipes and calculate required ingredients.",
+  "requestFramePermissions": []
+}
